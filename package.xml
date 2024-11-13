@@ -1,0 +1,14 @@
+<package>
+    <org>Sample Org</org>
+    <project>Sample Project</project>
+    <version>1.42</version>
+    <description>
+        This package provides foo capability.
+    </description>
+
+
+    <dependencies>
+    </dependencies>
+
+
+</package>
